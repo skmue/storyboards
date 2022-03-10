@@ -2,8 +2,8 @@
 id: 12
 trl: medium
 category: EUCP data and products
-title: Representation and identification of 3 historic "Heavy Precipitation Events"
-author: S. Muller, et al., International Centre for Theoretical Physics (ICTP)
+title: Identification of Heavy Precipitation Events in models and observations with a tracking algorithm
+author: S. K. Müller, et al., International Centre for Theoretical Physics (ICTP)
 thumbnail: "intro.png"
 ---
 
@@ -53,8 +53,8 @@ demonstrate the capability of convection-permitting resolutions and the
 usefulness of the tracker.
 :::
 
-:::Chapter{headline="Composite" image="composite.html"}
-## Interactive composit map
+:::Chapter{headline="Interactive HPE Map" image="composite.html"}
+## Interactive HPE Map
 
 We identify from a composite of convection-permitting observational datasets,
 covering France, Italy, Switzerland and Germany and the years 2001 to 2009,
